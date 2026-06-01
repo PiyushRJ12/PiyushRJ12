@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Piyush Kumar 👋
 
-<!--
-**PiyushRJ12/PiyushRJ12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Data Analyst | Turning raw data into insights  
+📍 New Delhi, India  
+📧 piyushsingh.rj@gmail.com  
+🔗 [LinkedIn](http://www.linkedin.com/in/piyushkumar-rj)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 🛠️ Skills
+- 🗄️ SQL (Joins, Subqueries, Window Functions, Aggregations)
+- 📊 MS Excel (Pivot Tables, VLOOKUP, Charts)
+- 📈 Power BI (Dashboards, DAX)
+
+---
+
+📁 Projects
+| Project | Tools | Description |
+|---|---|---|
+
+
+---
+
+📜 Certifications
+- NamasteSQL — Ankit Bansal
+
+---
+📬 Contact Me
+- 📧 piyushsingh.rj@gmail.com
